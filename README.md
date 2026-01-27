@@ -24,7 +24,7 @@ I enjoy turning confusing problems into simple logic and learning one challenge 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vigg_i____)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-padala-817b85344)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:padalavignesh854@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://one-page-scrolling-p-22o6.bolt.host/)
 ---
 
 ## 💻 Tech Stack
