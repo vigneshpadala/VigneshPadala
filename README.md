@@ -45,6 +45,10 @@ I enjoy turning confusing problems into simple logic and learning one challenge 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshPadala&theme=dark&hide_border=false&layout=compact)
 
 ---
+## 🧠 LeetCode Stats
+![](https://leetcard.jacoblin.cool/VIGNESHPADALA?theme=dark&font=Karma&ext=heatmap)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VigneshPadala&theme=radical&margin-w=10)
