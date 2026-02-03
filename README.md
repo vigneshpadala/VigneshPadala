@@ -50,11 +50,6 @@ I enjoy turning confusing problems into simple logic and learning one challenge 
 ## 🧠 LeetCode Stats
 ![](https://leetcard.jacoblin.cool/VIGNESHPADALA?theme=dark&font=Karma&ext=heatmap)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VigneshPadala&theme=radical&margin-w=10)
-Updated soon...
 
 ---
 
