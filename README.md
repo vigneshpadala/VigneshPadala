@@ -10,7 +10,7 @@ Beginner to intermediate **Python/Django projects**, backend development, and le
 Writing efficient algorithms, improving coding logic, and understanding real-world backend design.
 
 🌱 **I’m currently learning**  
-**Data Structures & Algorithms**, **Django**, **Kotlin**, and core computer science fundamentals.
+**Data Structures & Algorithms**, **Django** and core computer science fundamentals.
 
 💬 **Ask me about**  
 Python basics, DSA concepts, breaking down problems, and learning strategies.
